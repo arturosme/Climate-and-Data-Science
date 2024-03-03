@@ -1,3 +1,6 @@
+# Granule files (too large)
+Barcelona*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
