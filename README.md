@@ -1,1 +1,1 @@
-# geoskop_exercise
+# Climate and Data Science
